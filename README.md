@@ -13,10 +13,10 @@
 ## How to use it ?
 
     Just download it
-    ```sh
+    ```
     $ git clone https://github.com/majidzeno/react-spring-tut.git```
     and run
-    ```sh
+    ```
     $ npm i
     $ npm start
     ```
