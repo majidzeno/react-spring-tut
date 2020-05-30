@@ -6,7 +6,9 @@
 
 ## Motivation
 
-    Most of react-spring tutorials and examples are using multi/complex configuration which not explaining the bare use of every single hook, this tutorial made to give a very basic introduction of how these hooks works and if you want to dig more you can then go and explore library examples, it could be a bit confusing but you will be able to decode them easily after getting through this tutorial.
+    Most of react-spring tutorials and examples are using multi/complex configuration which not explaining the bare use of every single
+    hook, this tutorial made to give a very basic introduction of how these hooks works and if you want to dig more you can then go and explore
+     library examples, it could be a bit confusing but you will be able to decode them easily after getting through this tutorial.
 
 ## How to use it ?
 
